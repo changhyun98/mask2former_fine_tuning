@@ -14,6 +14,7 @@ The object closest to the center is the main instance.
 
 
 3. Combine the original image with masked image
+
 ![crop_sesame_w6_45_059625_background_mask](https://github.com/user-attachments/assets/a7bdb41d-768f-4277-b46b-28842b0def96)
 
 
